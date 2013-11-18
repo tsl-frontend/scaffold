@@ -9,6 +9,7 @@ HTML/CSS project
 - Eric Meyer's [CSS Reset](http://meyerweb.com/eric/tools/css/reset/)
 - External CSS file
 - Compass configuration
+- Jekyll configuration
 - Media query breakpoint at 800px
 - Bootstrap components:
   - Print media styles
