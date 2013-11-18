@@ -8,6 +8,7 @@ HTML/CSS project
 - UTF-8 charset tag
 - Eric Meyer's [CSS Reset](http://meyerweb.com/eric/tools/css/reset/)
 - External CSS file
+- Compass configuration
 - Media query breakpoint at 800px
 - Bootstrap components:
   - Print media styles
